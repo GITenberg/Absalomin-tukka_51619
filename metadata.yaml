@@ -1,0 +1,36 @@
+_repo: Absalomin-tukka_51619
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Raitio, Martti
+    gutenberg_agent_id: '46492'
+    url: http://www.gutenberg.org/2009/agents/46492
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2016-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51619'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Parent and child -- Fiction'
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Attitude (Psychology) -- Fiction'
+- GITenberg
+title: Absalomin tukka
+url: http://www.gutenberg.org/ebooks/51619
